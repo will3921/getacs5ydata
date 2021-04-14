@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: getacs5ydata
+Version: 1.0.1
+Summary: Gets ACS 5 Y Data
+Home-page: UNKNOWN
+Author: Will Armstrong
+Author-email: williamqarmstrong@gmail.com
+License: UNKNOWN
+Description: Gets ACS 5 Y Data
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

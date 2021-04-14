@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+getacs5ydata.egg-info/PKG-INFO
+getacs5ydata.egg-info/SOURCES.txt
+getacs5ydata.egg-info/dependency_links.txt
+getacs5ydata.egg-info/top_level.txt
